@@ -25,7 +25,7 @@ A Flutter mobile application for booking car wash services — featuring a **Use
 
 | Splash | Select Role | Login |
 |:---:|:---:|:---:|
-| <img src="images/splash.PNG" width="220"/> | <img src="images/login_selection_admin_or_user.PNG" width="220"/> | <img src="images/login.PNG" width="220"/> |
+| <img src="images/splash.PNG" width="220"/> | <img src="images/login_selectio_admin_or_user.PNG" width="220"/> | <img src="images/login.PNG" width="220"/> |
 | **Splash Screen** | **Admin or User?** | **Login** |
 
 </div>
@@ -43,7 +43,7 @@ A Flutter mobile application for booking car wash services — featuring a **Use
 
 | Confirm | Schedule | Notifications |
 |:---:|:---:|:---:|
-| <img src="images/user/confirm_appoiment.PNG" width="220"/> | <img src="images/user/schudule_user.PNG" width="220"/> | <img src="images/user/notification user.PNG" width="220"/> |
+| <img src="images/user/confirm_appoiment.PNG" width="220"/> | <img src="images/user/schudule_user.PNG" width="220"/> | <img src="images/user/notification_user.PNG" width="220"/> |
 | **Confirm Booking** | **My Schedule** | **Notifications** |
 
 </div>
@@ -56,7 +56,7 @@ A Flutter mobile application for booking car wash services — featuring a **Use
 
 | Home | Choose Service | Booking History |
 |:---:|:---:|:---:|
-| <img src="images/admin/home admin.PNG" width="220"/> | <img src="images/admin/admin_choose_service.PNG" width="220"/> | <img src="images/admin/admin_booking_history.PNG" width="220"/> |
+| <img src="images/admin/home_admin.PNG" width="220"/> | <img src="images/admin/admin_choose_sevice.PNG" width="220"/> | <img src="images/admin/admin_booking_history.PNG" width="220"/> |
 | **Admin Home** | **Manage Services** | **Booking History** |
 
 | Schedule | Notifications |
